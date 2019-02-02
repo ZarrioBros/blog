@@ -10,9 +10,6 @@ hero_button:
   href: https:///google.com/
 textline: Si tú farcias del carordias, no remueldas las leporcias
 menu:
-  navigation:
-    identifier: _projects
-    weight: 8
   footer:
     identifier: _projects
     url: "/projects/"
