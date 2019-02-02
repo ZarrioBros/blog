@@ -2,7 +2,7 @@
 role:
 - staff
 layout: person
-title: mangler
+title: Mangler
 sub_heading: gordo
 thumbnail: "/uploads/people/mangler.png"
 email: mangler@zarrio.co
