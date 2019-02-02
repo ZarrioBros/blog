@@ -13,7 +13,7 @@ services:
   heading: Movidas
   icon: "/uploads/2019/02/02/cafetera.png"
 - description: Mauris imperdiet rutrum ipsum, ut euismod nisl vulputate sed. Curabitur
-    porttitor sagittis ipsum. Aliquam erat volutpat.
+    porttitor sagittis ipsum.
   heading: Mandangas
   icon: "/uploads/2019/02/02/cabeza-cerdo.png"
 sub_heading: El secreto está en el mejunje
