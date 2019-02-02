@@ -1,26 +1,18 @@
 ---
 footer:
-- url: "/projects"
-  weight: 6
-  title: Proyectos!
-- url: https://google.com/
-  weight: 4
-  title: Google
-navigation:
-- url: "/contact"
-  weight: 5
-  title: Contacto
-- url: "/about"
-  weight: 2
-  title: Acerca de
-- url: "/"
-  weight: 1
-  title: Inicio
-- url: "/posts"
+- url: https://twitter.com/zarriobros
   weight: 3
-  title: Publicaciones
+  title: Twitter
+- url: "/contact"
+  weight: 2
+  title: Contacto
+- identifier: _about
+  weight: 1
+  url: "/about"
+  title: Acerca de
+navigation:
 - url: "/projects"
-  weight: 4
+  weight: 3
   title: Proyectos
   children:
   - url: "/projects/epilepsy-monitoring/"
@@ -42,3 +34,9 @@ navigation:
   - url: "/projects/epilepsy-monitoring/"
     weight: 1
     title: Tres
+- url: "/posts"
+  weight: 2
+  title: Publicaciones
+- url: "/"
+  weight: 1
+  title: Inicio
