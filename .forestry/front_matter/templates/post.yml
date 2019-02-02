@@ -7,7 +7,7 @@ fields:
   label: Título
   type: text
   hidden: false
-  default: ''
+  default: Sin título
 - type: text
   label: Subtítulo
   name: sub_heading
