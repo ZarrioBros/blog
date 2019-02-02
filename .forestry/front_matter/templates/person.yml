@@ -30,7 +30,7 @@ fields:
   label: Twitter
   type: text
   hidden: false
-  default: ''
+  default: ZarrioBros
 - name: layout
   label: Plantilla
   type: text
