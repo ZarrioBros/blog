@@ -11,7 +11,12 @@
       </h1>
       <nav class="main-nav">
         <ul class="navigation">
-          {% for link in site.data.menus.navigation %}
+          {% if site.menus %}
+            {% assign nav_menus = site.menus.navigation %}
+          {% else %}
+            {% assign nav_menus = site.data.menus.navigation %}
+          {% endif %}
+          {% for link in nav_menus %}
           <li class="{% if link.children %}nested {% endif %}{% if url == link.url %}current{% endif %}">
             {% if link.children %}
             <ul class="first-level">
