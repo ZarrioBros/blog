@@ -7,7 +7,7 @@ fields:
   label: Título
   type: text
   hidden: false
-  default: ''
+  default: Inicio
   config:
     required: true
 - type: text
