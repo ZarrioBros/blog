@@ -3,3 +3,7 @@ footer:
 - url: https://google.com/
   weight: 4
   title: Google
+navigation:
+- url: https://google.com/
+  weight: 6
+  title: Google
