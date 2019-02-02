@@ -6,7 +6,7 @@ title: Monger
 sub_heading: aidol
 thumbnail: "/uploads/people/monger.png"
 email: monger@zarrio.co
-linkedin: ''
+twitter: '_Monger_'
 date: 2019-02-02 07:17:52 +0100
 
 ---

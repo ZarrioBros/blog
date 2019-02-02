@@ -6,7 +6,7 @@ title: Oger
 sub_heading: raner
 thumbnail: "/uploads/people/oger.png"
 email: oger@zarrio.co
-linkedin: ''
+twitter: ''
 date: 2019-02-02 07:18:47 +0100
 
 ---

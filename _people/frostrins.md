@@ -6,7 +6,7 @@ title: Frostrins
 sub_heading: Pachacho
 thumbnail: "/uploads/people/frostrins.png"
 email: frostrins@zarriobros.co
-linkedin: ''
+twitter: 'frostris'
 date: 2019-02-02 07:16:10 +0100
 
 ---

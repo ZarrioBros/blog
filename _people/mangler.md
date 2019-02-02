@@ -6,8 +6,8 @@ title: Mangler
 sub_heading: gordo
 thumbnail: "/uploads/people/mangler.png"
 email: mangler@zarrio.co
-linkedin: mangler-zarrio
-date: 2019-02-02 06:17:12 +0000
+twitter: ''
+date: 2019-02-02 07:17:12 +0100
 
 ---
 Mangler Zarrio dolor sit amet, consectetur adipiscing elit. Phasellus vel felis enim. Vivamus eu viverra enim, ut facilisis tortor. Mauris imperdiet rutrum ipsum, ut euismod nisl vulputate sed. Curabitur porttitor sagittis ipsum. Aliquam erat volutpat. Vivamus dolor elit, fermentum non risus quis, blandit tristique elit. Morbi dignissim faucibus placerat. Mauris in maximus erat, in rutrum felis. Vivamus vehicula, ligula non varius posuere, libero enim porttitor sem, quis lacinia metus arcu id massa.
