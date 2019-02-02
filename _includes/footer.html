@@ -6,9 +6,20 @@
         <div class="footer-col pure-u-1 pure-u-md-1-4">
             <h3>{{ site.section_headings.links }}</h3>
             <ul>
+          {% if site.menus %}
+           {% for item in site.menus.footer %}
+                <li><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></li>
+            {% endfor %}
+          {% else %}
+            {% for page in site.pages %}
+              {% if page.menu.footer %}
+                <li><a href="{{ page.url | absolute_url }}">{{ page.title }}</a></li>
+              {% endif %}
+            {% endfor %}
             {% for item in site.data.menus.footer %}
                 <li><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></li>
             {% endfor %}
+          {% endif %}
             </ul>
         </div>
         <div class="footer-col pure-u-1 pure-u-md-1-4">
