@@ -10,11 +10,7 @@ navigation:
 - url: "/contact"
   weight: 5
   title: Contacto
-  children:
-  - url: "/projects/epilepsy-monitoring/"
-    weight: 1
-    parent: item_Pp5vHNf
-    title: Uno
+
 - url: "/about"
   weight: 2
   title: Acerca de
@@ -27,3 +23,10 @@ navigation:
 - url: "/projects"
   weight: 4
   title: Proyectos
+  children:
+  - url: "/projects/epilepsy-monitoring/"
+    weight: 1
+    title: Uno
+  - url: "/projects/epilepsy-monitoring/"
+    weight: 1
+    title: Dos
