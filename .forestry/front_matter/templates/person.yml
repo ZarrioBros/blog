@@ -38,4 +38,5 @@ fields:
   default: person
 pages:
 - _people/mangler.md
+- _people/monger.md
 - _people/frostrins.md
