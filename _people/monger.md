@@ -2,7 +2,7 @@
 role:
 - staff
 layout: person
-title: monger
+title: Monger
 sub_heading: aidol
 thumbnail: "/uploads/people/monger.png"
 email: monger@zarrio.co
