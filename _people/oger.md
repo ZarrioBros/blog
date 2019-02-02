@@ -2,7 +2,7 @@
 role:
 - staff
 layout: person
-title: oger
+title: Oger
 sub_heading: raner
 thumbnail: "/uploads/people/oger.png"
 email: oger@zarrio.co
