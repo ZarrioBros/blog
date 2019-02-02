@@ -1,5 +1,8 @@
 ---
 footer:
+- url: "/projects"
+  weight: 6
+  title: Proyectos!
 - url: https://google.com/
   weight: 4
   title: Google
