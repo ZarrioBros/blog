@@ -6,6 +6,7 @@ fields:
 - type: text
   name: title
   label: Título
+  default: Sin título
 - name: sub_heading
   label: Subtítulo
   type: text
