@@ -47,6 +47,6 @@ fields:
   label: Twitter
   type: text
   hidden: false
-  default: ''
+  default: ZarrioBros
 pages:
 - _data/information.yml
