@@ -10,7 +10,6 @@ navigation:
 - url: "/contact"
   weight: 5
   title: Contacto
-
 - url: "/about"
   weight: 2
   title: Acerca de
@@ -30,3 +29,16 @@ navigation:
   - url: "/projects/epilepsy-monitoring/"
     weight: 1
     title: Dos
+    children:
+    - url: "/projects/epilepsy-monitoring/"
+      weight: 1
+      title: Rojo
+    - url: "/projects/epilepsy-monitoring/"
+      weight: 1
+      title: Verde
+    - url: "/projects/epilepsy-monitoring/"
+      weight: 1
+      title: Azul
+  - url: "/projects/epilepsy-monitoring/"
+    weight: 1
+    title: Tres
