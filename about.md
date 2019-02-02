@@ -12,7 +12,7 @@ show_news: true
 menu:
   footer:
     identifier: _about
-    weight: 3
+    weight: 2
   navigation:
     identifier: _about
     weight: 2
