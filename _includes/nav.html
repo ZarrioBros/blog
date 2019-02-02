@@ -16,15 +16,15 @@
           {% else %}
             {% assign nav_menus = site.data.menus.navigation %}
           {% endif %}
-          {% for link in nav_menus %}
+          {% for link in nav_menus | sort: 'weight' %}
           <li class="{% if link.children %}nested {% endif %}{% if url == link.url %}current{% endif %}">
             {% if link.children %}
             <ul class="first-level">
-              {% for child in link.children %}
+              {% for child in link.children | sort: 'weight' %}
               <li>
                 {% if child.children %}
                 <ul class="second-level">
-                  {% for child in child.children %}
+                  {% for child in child.children | sort: 'weight' %}
                   <li>
                     <a href="{{ child.url | absolute_url }}">{{ child.title }}</a>
                   </li>
