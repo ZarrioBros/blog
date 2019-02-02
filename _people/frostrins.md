@@ -2,7 +2,7 @@
 role:
 - staff
 layout: person
-title: frostrins
+title: Frostrins
 sub_heading: Pachacho
 thumbnail: "/uploads/people/frostrins.png"
 email: frostrins@zarriobros.co
