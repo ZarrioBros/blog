@@ -5,18 +5,18 @@ is_partial: false
 fields:
 - type: text
   name: title
-  label: Name
+  label: Nombre
 - name: sub_heading
-  label: Sub Heading
+  label: Título
   type: text
   hidden: false
   default: ''
 - type: file
-  label: Thumbnail
+  label: Imagen
   name: thumbnail
   description: 'Square image, Max 500 pixels '
 - name: role
-  label: Departments
+  label: Rol
   type: list
   hidden: true
   default: staff
@@ -32,7 +32,7 @@ fields:
   hidden: false
   default: ''
 - name: layout
-  label: Layout
+  label: Plantilla
   type: text
   hidden: true
   default: person
