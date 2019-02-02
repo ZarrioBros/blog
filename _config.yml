@@ -32,3 +32,5 @@ gems:
   - jekyll-menus
   - jekyll-feed
   - jekyll-archives
+section_headings:
+  staff: "¿Quiénes somos?"
