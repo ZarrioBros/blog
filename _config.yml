@@ -34,3 +34,7 @@ gems:
   - jekyll-archives
 section_headings:
   staff: "¿Quiénes somos?"
+  links: "Enlaces"
+  projects: "Proyectos"
+  contacto: "Contacto"
+  all_projects: "Ver todos los proyectos"
