@@ -7,6 +7,22 @@ footer:
   weight: 4
   title: Google
 navigation:
-- url: https://google.com/
-  weight: 6
-  title: Google
+- url: "/contact"
+  weight: 9
+  title: Contacto!
+- url: "/projects/epilepsy-monitoring/"
+  weight: 1
+  parent: item_Pp5vHNf
+  title: Uno
+- url: "/projects"
+  weight: 7
+  title: Proyectos!
+- url: "/posts"
+  weight: 5
+  title: Publicaciones!
+- url: "/about"
+  weight: 3
+  title: Acerca de!
+- url: "/"
+  weight: 1
+  title: Inicio!

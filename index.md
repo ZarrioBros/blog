@@ -26,6 +26,6 @@ show_staff: false
 menu:
   navigation:
     identifier: _index
-    weight: 1
+    weight: 2
 
 ---
