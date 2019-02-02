@@ -8,14 +8,14 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
-  icon: "/uploads/2017/11/13/health.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
-  icon: "/uploads/2017/11/13/biotech.png"
+- description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
+    vel felis enim.
+  heading: Movidas
+  icon: "/uploads/2019/02/02/cafetera.png"
+- description: Mauris imperdiet rutrum ipsum, ut euismod nisl vulputate sed. Curabitur
+    porttitor sagittis ipsum. Aliquam erat volutpat.
+  heading: Mandangas
+  icon: "/uploads/2019/02/02/cabeza-cerdo.png"
 sub_heading: El secreto está en el mejunje
 textline: Si no son micromachines, no son los auténticos
 hero_button:
