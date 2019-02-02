@@ -1,8 +1,8 @@
 ---
-title: Home
+title: Inicio
 banner_image: "/img/banner.png"
 layout: landing-page
-heading: Belkirk College
+heading: Zarrio Bros
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
@@ -16,17 +16,16 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
-textline: | 
-  Belkirk College of Engineering
-  
-  Ora et Labora
+sub_heading: El secreto está en el mejunje
+textline: Si no son micromachines, no son los auténticos
 hero_button:
-  text: Learn more
+  text: Más información
   href: "/about"
 show_news: true
+show_staff: false
 menu:
   navigation:
     identifier: _index
     weight: 1
+
 ---
