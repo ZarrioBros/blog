@@ -9,7 +9,7 @@
             {% if site.menus %}
               {% assign footer_menus = site.menus.footer %}
             {% else %}
-              {% assign footer_menus = site.data.menus.footer %}
+              {% assign footer_menus = site.data.menus.footer | sort: 'weight' %}
             {% endif %}
             {% for item in footer_menus %}
                 <li><a href="{{ item.url | absolute_url }}">{{ item.title }}</a></li>
