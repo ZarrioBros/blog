@@ -65,14 +65,14 @@ fields:
   default: ''
 - type: boolean
   name: show_news
-  label: ¿Mostrar novedades?
+  label: "¿Mostrar novedades?"
   description: Activa un apartado con las últimas publicaciones y tweets
 - type: image_gallery
   name: partners
   label: Partner Logos
 - type: boolean
   name: show_staff
-  label: ¿Mostrar personas?
+  label: "¿Mostrar personas?"
   description: Activa un apartado mostrando todas las personas de la web
 - name: layout
   label: Plantilla
