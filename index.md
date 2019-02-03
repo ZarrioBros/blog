@@ -4,9 +4,10 @@ banner_image: "/img/banner.png"
 layout: landing-page
 heading: Zarrio Bros
 partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+- "/uploads/2019/02/03/nyan-nyan-cat.png"
+- "/uploads/2019/02/03/4.jpeg"
+- "/uploads/2019/02/03/oh-fuck-me.png"
+- "/uploads/2019/02/03/me-gusta.png"
 services:
 - description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
     vel felis enim.
