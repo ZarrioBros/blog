@@ -11,4 +11,4 @@ hero_button:
 textline: Si tú farcias del carordias, no remueldas las leporcias
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vel felis enim. Vivamus eu viverra enim, ut facilisis tortor. Mauris imperdiet rutrum ipsum, ut euismod nisl vulputate sed. Curabitur porttitor sagittis ipsum. Aliquam erat volutpat. Vivamus dolor elit, fermentum non risus quis, blandit tristique elit. Morbi dignissim faucibus placerat. Mauris in maximus erat, in rutrum felis. Vivamus vehicula, ligula non varius posuere, libero enim porttitor sem, quis lacinia metus arcu id massa.
+Estos son todos los proyectos que hemos desarrollado hasta ahora.
