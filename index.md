@@ -4,9 +4,6 @@ banner_image: "/img/banner.png"
 layout: landing-page
 heading: Zarrio Bros
 partners:
-- "/uploads/2019/02/03/5.jpeg"
-- "/uploads/2019/02/03/6.jpeg"
-- "/uploads/2019/02/03/nyan-nyan-cat.png"
 - "/uploads/2019/02/03/4.jpeg"
 - "/uploads/2019/02/03/oh-fuck-me.png"
 - "/uploads/2019/02/03/me-gusta.png"
