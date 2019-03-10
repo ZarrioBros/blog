@@ -11,10 +11,6 @@ footer:
   weight: 3
   title: Twitter
 navigation:
-- url: https://google.es
-  weight: 1
-  parent: item_ZZJ2PMR
-  title: google
 - url: "/projects/"
   weight: 3
   title: Proyectos
@@ -38,6 +34,7 @@ navigation:
   - url: "/projects/epilepsy-monitoring/"
     weight: 1
     title: Tres
+  identifier: item_ZZJ2PMR
 - url: "/posts/"
   weight: 2
   title: Publicaciones
