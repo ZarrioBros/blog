@@ -1,7 +1,7 @@
 ---
-title: mandangas
+title: Mandangas
 tags: []
-sub_heading: super mandangas
+sub_heading: Super mandangas
 banner_image: "/uploads/2018/02/17/bridge3.jpg"
 slug: ''
 date: 2019-03-10 05:00:35 +0100
