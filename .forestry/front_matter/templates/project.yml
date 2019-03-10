@@ -28,4 +28,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- _projects/mandangas.md
 - _projects/movidas.md
