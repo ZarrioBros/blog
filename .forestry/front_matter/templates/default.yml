@@ -1,7 +1,6 @@
 ---
 label: Página por defecto
 hide_body: true
-is_partial: false
 fields:
 - type: text
   name: title

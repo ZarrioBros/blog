@@ -1,7 +1,6 @@
 ---
 label: Persona
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: title
@@ -37,7 +36,7 @@ fields:
   hidden: true
   default: person
 pages:
-- _people/monger.md
-- _people/oger.md
-- _people/mangler.md
 - _people/frostris.md
+- _people/mangler.md
+- _people/oger.md
+- _people/monger.md
