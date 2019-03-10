@@ -11,6 +11,14 @@ footer:
   weight: 3
   title: Twitter
 navigation:
+- url: "/projects/mandangas"
+  weight: 2
+  parent: item_ZZJ2PMR
+  title: mandangas
+- url: "/projects/movidas/"
+  weight: 1
+  parent: item_ZZJ2PMR
+  title: movidas
 - url: "/projects/"
   weight: 3
   title: Proyectos
